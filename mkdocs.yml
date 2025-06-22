@@ -1,0 +1,10 @@
+site_name: Boiler SnapDocs
+nav:
+  - Home: index.md
+  - Boiler Ratings: boiler-ratings.md
+  - System Components: system-components.md
+  - Water Treatment Chemistry: water-treatment.md
+  - Calculators & SnapTools: calculators.md
+  - SnapTruths: snaptruths.md
+theme:
+  name: material
