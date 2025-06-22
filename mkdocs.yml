@@ -4,7 +4,10 @@ nav:
   - Boiler Ratings: boiler-ratings.md
   - System Components: system-components.md
   - Water Treatment Chemistry: water-treatment.md
-  - Calculators & SnapTools: calculators.md
+  - Calculators & SnapTools:
+    - Overview: calculators.md
+    - SnapPrecise Calculator: snapprecise.md
   - SnapTruths: snaptruths.md
+  - Power Engineering Path: power-engineering.md
 theme:
   name: material
